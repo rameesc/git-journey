@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-hello
-=======
 hello21
->>>>>>> staging
+
